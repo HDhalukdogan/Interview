@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\pocapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:pocapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -190,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PocAPI.csproj",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\PocAPI.csproj",
               "RelativeDocumentMoniker": "PocAPI.csproj",
@@ -216,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "DemoEntityService.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Services\\DemoEntityService.cs",
               "RelativeDocumentMoniker": "Services\\DemoEntityService.cs",
@@ -229,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "IDemoEntityService.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Services\\IDemoEntityService.cs",
               "RelativeDocumentMoniker": "Services\\IDemoEntityService.cs",
@@ -242,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DemoEntitiesController.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Controllers\\DemoEntitiesController.cs",
               "RelativeDocumentMoniker": "Controllers\\DemoEntitiesController.cs",
@@ -255,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "UpdateDemoDto.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\DTOs\\UpdateDemoDto.cs",
               "RelativeDocumentMoniker": "DTOs\\UpdateDemoDto.cs",
@@ -268,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "CreateDemoDto.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\DTOs\\CreateDemoDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CreateDemoDto.cs",
@@ -281,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "DemoDto.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\DTOs\\DemoDto.cs",
               "RelativeDocumentMoniker": "DTOs\\DemoDto.cs",
@@ -294,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "DemoDbContext.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Data\\DemoDbContext.cs",
               "RelativeDocumentMoniker": "Data\\DemoDbContext.cs",
@@ -307,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "DemoEntity.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Entities\\DemoEntity.cs",
               "RelativeDocumentMoniker": "Entities\\DemoEntity.cs",
@@ -316,40 +312,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T06:37:04.469Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "f5f6b6b2-daa4-4c5b-973a-e0906f5e248d",
-        "Display": 1,
-        "X": 1182,
-        "Y": 225,
-        "Width": 1465,
-        "Height": 965,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-24T07:27:40.845Z",
               "EditorCaption": ""
             }
           ]

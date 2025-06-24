@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\services\\demoentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:services\\demoentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\pocapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:pocapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\dtos\\updatedemodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:dtos\\updatedemodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\services\\demoentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:services\\demoentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\data\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 35,
+          "SelectedChildIndex": 34,
           "Children": [
             {
               "$type": "Bookmark",
@@ -186,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PocAPI.csproj",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\PocAPI.csproj",
               "RelativeDocumentMoniker": "PocAPI.csproj",
@@ -194,8 +194,7 @@
               "RelativeToolTip": "PocAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-24T07:27:17.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T07:27:17.04Z"
             },
             {
               "$type": "Document",
@@ -205,20 +204,20 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T07:22:09.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DemoEntityService.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Services\\DemoEntityService.cs",
               "RelativeDocumentMoniker": "Services\\DemoEntityService.cs",
               "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Services\\DemoEntityService.cs",
               "RelativeToolTip": "Services\\DemoEntityService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T06:44:57.593Z",
               "EditorCaption": ""
@@ -233,12 +232,11 @@
               "RelativeToolTip": "Services\\IDemoEntityService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:44:47.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T06:44:47.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DemoEntitiesController.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Controllers\\DemoEntitiesController.cs",
               "RelativeDocumentMoniker": "Controllers\\DemoEntitiesController.cs",
@@ -246,12 +244,11 @@
               "RelativeToolTip": "Controllers\\DemoEntitiesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:39:36.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T06:39:36.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UpdateDemoDto.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\DTOs\\UpdateDemoDto.cs",
               "RelativeDocumentMoniker": "DTOs\\UpdateDemoDto.cs",
@@ -259,8 +256,7 @@
               "RelativeToolTip": "DTOs\\UpdateDemoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:38:40.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T06:38:40.056Z"
             },
             {
               "$type": "Document",
@@ -272,8 +268,7 @@
               "RelativeToolTip": "DTOs\\CreateDemoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:38:24.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T06:38:24.4Z"
             },
             {
               "$type": "Document",
@@ -285,8 +280,7 @@
               "RelativeToolTip": "DTOs\\DemoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:38:07.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T06:38:07.098Z"
             },
             {
               "$type": "Document",
@@ -298,8 +292,7 @@
               "RelativeToolTip": "Data\\DemoDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:37:43.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T06:37:43.02Z"
             },
             {
               "$type": "Document",
@@ -311,8 +304,7 @@
               "RelativeToolTip": "Entities\\DemoEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:37:04.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T06:37:04.469Z"
             }
           ]
         }

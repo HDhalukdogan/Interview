@@ -14,7 +14,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<DemoDbContext>(options =>{
     options.UseSqlite(builder.Configuration.GetConnectionString("SqliteConnection"));
     //options.UseNpgsql(builder.Configuration.GetConnectionString("PostgreConnection"));
-    //options.UseNpgsql(builder.Configuration.GetConnectionString("SqlServerConnection"));
+    //options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServerConnection"));
 });
 
 builder.Services.AddScoped<IDemoEntityService, DemoEntityService>();
