@@ -17,6 +17,8 @@ builder.Services.AddDbContext<DemoDbContext>(options =>
 
 builder.Services.AddScoped<IDemoEntityService, DemoEntityService>();
 
+builder.Services.AddCors();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -25,6 +27,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors(opt =>
+{
+    opt.AllowAnyHeader();
+    opt.AllowAnyMethod();
+    opt.AllowAnyOrigin();
+});
 
 app.UseAuthorization();
 

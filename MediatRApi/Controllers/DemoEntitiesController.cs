@@ -46,7 +46,7 @@ namespace MediatRApi.Controllers
         {
             var response = await _mediator.Send(new DeleteDemoEntityCommand { Id = id });
 
-            return response ? Ok("Deleted") : BadRequest("Not deleted");
+            return response ? NoContent() : BadRequest("Not deleted");
         }
     }
 }

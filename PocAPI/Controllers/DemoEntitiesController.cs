@@ -43,7 +43,7 @@ namespace PocAPI.Controllers
         public async Task<IActionResult> Delete(int id)
         {
             var result = await demoEntityService.DeleteEntityAsync(id);
-            return result ? Ok("Deleted") : BadRequest("Not deleted");
+            return result ? NoContent() : BadRequest("Not deleted");
         }
     }
 }
