@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\controllers\\demoentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:controllers\\demoentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\pocapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:pocapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\controllers\\demoentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:controllers\\demoentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\dtos\\updatedemodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\data\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:data\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\pocapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:pocapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\interview\\pocapi\\services\\idemoentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 38,
+          "SelectedChildIndex": 35,
           "Children": [
             {
               "$type": "Bookmark",
@@ -190,44 +186,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-24T07:27:40.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "PocAPI.csproj",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\PocAPI.csproj",
               "RelativeDocumentMoniker": "PocAPI.csproj",
               "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\PocAPI.csproj",
               "RelativeToolTip": "PocAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-24T07:27:17.04Z"
+              "WhenOpened": "2025-06-24T07:27:17.04Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T07:22:09.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DemoEntityService.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Services\\DemoEntityService.cs",
               "RelativeDocumentMoniker": "Services\\DemoEntityService.cs",
@@ -235,11 +220,12 @@
               "RelativeToolTip": "Services\\DemoEntityService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwCoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:44:57.593Z"
+              "WhenOpened": "2025-06-24T06:44:57.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "IDemoEntityService.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Services\\IDemoEntityService.cs",
               "RelativeDocumentMoniker": "Services\\IDemoEntityService.cs",
@@ -247,24 +233,25 @@
               "RelativeToolTip": "Services\\IDemoEntityService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:44:47.256Z"
+              "WhenOpened": "2025-06-24T06:44:47.256Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DemoEntitiesController.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Controllers\\DemoEntitiesController.cs",
               "RelativeDocumentMoniker": "Controllers\\DemoEntitiesController.cs",
               "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Controllers\\DemoEntitiesController.cs",
               "RelativeToolTip": "Controllers\\DemoEntitiesController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwC0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T06:39:36.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UpdateDemoDto.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\DTOs\\UpdateDemoDto.cs",
               "RelativeDocumentMoniker": "DTOs\\UpdateDemoDto.cs",
@@ -272,11 +259,12 @@
               "RelativeToolTip": "DTOs\\UpdateDemoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:38:40.056Z"
+              "WhenOpened": "2025-06-24T06:38:40.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "CreateDemoDto.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\DTOs\\CreateDemoDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CreateDemoDto.cs",
@@ -284,11 +272,12 @@
               "RelativeToolTip": "DTOs\\CreateDemoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:38:24.4Z"
+              "WhenOpened": "2025-06-24T06:38:24.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "DemoDto.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\DTOs\\DemoDto.cs",
               "RelativeDocumentMoniker": "DTOs\\DemoDto.cs",
@@ -296,11 +285,12 @@
               "RelativeToolTip": "DTOs\\DemoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:38:07.098Z"
+              "WhenOpened": "2025-06-24T06:38:07.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DemoDbContext.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Data\\DemoDbContext.cs",
               "RelativeDocumentMoniker": "Data\\DemoDbContext.cs",
@@ -308,11 +298,12 @@
               "RelativeToolTip": "Data\\DemoDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:37:43.02Z"
+              "WhenOpened": "2025-06-24T06:37:43.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "DemoEntity.cs",
               "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\Interview\\PocAPI\\Entities\\DemoEntity.cs",
               "RelativeDocumentMoniker": "Entities\\DemoEntity.cs",
@@ -320,7 +311,8 @@
               "RelativeToolTip": "Entities\\DemoEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:37:04.469Z"
+              "WhenOpened": "2025-06-24T06:37:04.469Z",
+              "EditorCaption": ""
             }
           ]
         }

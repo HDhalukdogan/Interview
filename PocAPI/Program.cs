@@ -11,9 +11,11 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<DemoDbContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"))
-);
+builder.Services.AddDbContext<DemoDbContext>(options =>{
+    options.UseSqlite(builder.Configuration.GetConnectionString("SqliteConnection"));
+    //options.UseNpgsql(builder.Configuration.GetConnectionString("PostgreConnection"));
+    //options.UseNpgsql(builder.Configuration.GetConnectionString("SqlServerConnection"));
+});
 
 builder.Services.AddScoped<IDemoEntityService, DemoEntityService>();
 

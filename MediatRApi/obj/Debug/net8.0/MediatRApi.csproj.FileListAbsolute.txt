@@ -148,3 +148,4 @@ C:\Users\haluk.dogan\Desktop\Projects\DotNet\Interview\MediatRApi\obj\Debug\net8
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\Interview\MediatRApi\obj\Debug\net8.0\MediatRApi.pdb
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\Interview\MediatRApi\obj\Debug\net8.0\MediatRApi.genruntimeconfig.cache
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\Interview\MediatRApi\obj\Debug\net8.0\ref\MediatRApi.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\Interview\MediatRApi\obj\Debug\net8.0\MediatRApi.sourcelink.json
