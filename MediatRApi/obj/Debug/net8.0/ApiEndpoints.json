@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "MediatRApi.Controllers.DemoEntitiesController",
+    "Method": "Get",
+    "RelativePath": "api/DemoEntities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MediatRApi.Controllers.DemoEntitiesController",
+    "Method": "Post",
+    "RelativePath": "api/DemoEntities",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MediatRApi.Application.CreateDemoEntityCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MediatRApi.Controllers.DemoEntitiesController",
+    "Method": "GetById",
+    "RelativePath": "api/DemoEntities/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MediatRApi.Controllers.DemoEntitiesController",
+    "Method": "Put",
+    "RelativePath": "api/DemoEntities/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "MediatRApi.Application.UpdateDemoEntityCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MediatRApi.Controllers.DemoEntitiesController",
+    "Method": "Delete",
+    "RelativePath": "api/DemoEntities/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

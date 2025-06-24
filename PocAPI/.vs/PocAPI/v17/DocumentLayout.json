@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\pocapi\\controllers\\demoentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:controllers\\demoentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\pocapi\\dtos\\updatedemodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:dtos\\updatedemodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\pocapi\\services\\demoentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:services\\demoentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\pocapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\pocapi\\data\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:data\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\pocapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\pocapi\\pocapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:pocapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\pocapi\\services\\idemoentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:services\\idemoentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\pocapi\\dtos\\demodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:dtos\\demodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\pocapi\\dtos\\createdemodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:dtos\\createdemodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|c:\\users\\haluk.dogan\\desktop\\projects\\dotnet\\pocapi\\entities\\demoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C0F65C-F545-489B-9EBB-FA20B557B4E6}|PocAPI.csproj|solutionrelative:entities\\demoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T07:27:40.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PocAPI",
+              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\PocAPI.csproj",
+              "RelativeDocumentMoniker": "PocAPI.csproj",
+              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\PocAPI.csproj",
+              "RelativeToolTip": "PocAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T07:27:17.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:22:09.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoEntityService.cs",
+              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\Services\\DemoEntityService.cs",
+              "RelativeDocumentMoniker": "Services\\DemoEntityService.cs",
+              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\Services\\DemoEntityService.cs",
+              "RelativeToolTip": "Services\\DemoEntityService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:44:57.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDemoEntityService.cs",
+              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\Services\\IDemoEntityService.cs",
+              "RelativeDocumentMoniker": "Services\\IDemoEntityService.cs",
+              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\Services\\IDemoEntityService.cs",
+              "RelativeToolTip": "Services\\IDemoEntityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:44:47.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoEntitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\Controllers\\DemoEntitiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DemoEntitiesController.cs",
+              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\Controllers\\DemoEntitiesController.cs",
+              "RelativeToolTip": "Controllers\\DemoEntitiesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:39:36.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateDemoDto.cs",
+              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\DTOs\\UpdateDemoDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateDemoDto.cs",
+              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\DTOs\\UpdateDemoDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateDemoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:38:40.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateDemoDto.cs",
+              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\DTOs\\CreateDemoDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateDemoDto.cs",
+              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\DTOs\\CreateDemoDto.cs",
+              "RelativeToolTip": "DTOs\\CreateDemoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:38:24.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DemoDto.cs",
+              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\DTOs\\DemoDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DemoDto.cs",
+              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\DTOs\\DemoDto.cs",
+              "RelativeToolTip": "DTOs\\DemoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:38:07.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\Data\\DemoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DemoDbContext.cs",
+              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\Data\\DemoDbContext.cs",
+              "RelativeToolTip": "Data\\DemoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:37:43.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DemoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\Entities\\DemoEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\DemoEntity.cs",
+              "ToolTip": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\PocAPI\\Entities\\DemoEntity.cs",
+              "RelativeToolTip": "Entities\\DemoEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:37:04.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

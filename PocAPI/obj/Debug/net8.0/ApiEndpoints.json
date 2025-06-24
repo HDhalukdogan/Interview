@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "PocAPI.Controllers.DemoEntitiesController",
+    "Method": "Get",
+    "RelativePath": "api/DemoEntities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PocAPI.Controllers.DemoEntitiesController",
+    "Method": "Post",
+    "RelativePath": "api/DemoEntities",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDemoDto",
+        "Type": "PocAPI.DTOs.CreateDemoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PocAPI.Controllers.DemoEntitiesController",
+    "Method": "GetById",
+    "RelativePath": "api/DemoEntities/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PocAPI.Controllers.DemoEntitiesController",
+    "Method": "Put",
+    "RelativePath": "api/DemoEntities/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateDemoDto",
+        "Type": "PocAPI.DTOs.UpdateDemoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PocAPI.Controllers.DemoEntitiesController",
+    "Method": "Delete",
+    "RelativePath": "api/DemoEntities/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
